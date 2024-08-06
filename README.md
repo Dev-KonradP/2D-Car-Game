@@ -6,8 +6,11 @@ Game Controls:
 There are four basic controls in Pick & Deliver game:
 
   a) Press Up Arrow key - moving car towards
+  
   b) Press Down Arrow key - moving car backwards
+  
   c) Press Left Arrow key - moving car left
+  
   d) Press Right Arrow key – moving car right
   
 There are no controls for pick up the package and delivery the package, just run over the package to pick up and run at the delivery location to deliver or drop the package.
